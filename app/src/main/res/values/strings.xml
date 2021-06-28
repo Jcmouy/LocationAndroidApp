@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestPedidosYa</string>
+    <string name="google_maps_key">AIzaSyDIo30k9qyZ41HVoZbJ2foPg8tCJJ9VWvc</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="dialog_title_confirmation">Selecciona estas coordenadas?</string>
+    <string name="dialog_yes">Si</string>
+    <string name="dialog_no">No</string>
+    <string name="ok">Ok</string>
+    <string name="dialog_maps_availability">Elige una ubicación que por lo menos posea un restaurante</string>
+    <string name="user_n_permission">Usuario no posee permisos</string>
+    <string name="user_acces_service">No se puede acceder al servicio</string>
+    <string name="user_time_out">Demora en responder</string>
+    <string name="server_error">Servico temporalmente no disponible, reintente más tarde</string>
+    <string name="error_default">Error desconocido</string>
+    <string name="result_n">No se encontraron restaurantes en la zona</string>
+</resources>
